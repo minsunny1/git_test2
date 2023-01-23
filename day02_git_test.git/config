@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/minsunny1/git_test2.git
+	pushurl = https://github.com/minsunny1/git_test2.git
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
